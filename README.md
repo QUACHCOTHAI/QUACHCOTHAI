@@ -3,11 +3,10 @@ QUACHCOTHAI/QUACHCOTHAI is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi, I'm I’m QUACHCOTHAI (Quách Cơ Thái-VN) -
-
+# 👋🏻 Hi, I'm I’m QUACHCOTHAI (Quách Cơ Thái-VN) 
 - I'm an **AI Engineer & Data Scientist** with a passion for solving real-world problems using Machine Learning, Deep Learning, and Large Language Models (LLMs). I enjoy building intelligent systems, analyzing data, and deploying scalable AI solutions to production.
-- I'm passionate about learning everything in all fields.
-- Interested: Travelling everywhere before pass away.
+- I'm passionate about continuous learning and exploring knowledge across various fields.
+- The following projects 👇🏻 
 ---
 
 ## 🚀 Tech Stack
