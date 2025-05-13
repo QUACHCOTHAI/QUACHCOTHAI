@@ -1,9 +1,61 @@
-👋 Hello Guys, I’m QUACHCOTHAI (Quách Cơ Thái-VN) - I'm a Data Scientist(Young😊)
+👋Hello Guys, I’m QUACHCOTHAI (Quách Cơ Thái-VN) - I'm a Data Scientist(Young😊)
+- I'm an **AI Engineer & Data Scientist** with a passion for solving real-world problems using Machine Learning, Deep Learning, and Large Language Models (LLMs). I enjoy building intelligent systems, analyzing data, and deploying scalable AI solutions to production.
 - I'm passionate about learning everything in all fields.
 - Interested: Travelling everywhere before pass away.
 <!---
 QUACHCOTHAI/QUACHCOTHAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 💻Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages**: Python, R, SQL, C/C++
+- **Data Science**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Deep Learning**: TensorFlow, PyTorch, Keras
+- **LLMs & NLP**: OpenAI, Gemini, HuggingFace Transformers, LangChain
+- **MLOps**: MLflow, Weights & Biases, Docker, FastAPI, Airflow
+- **Tools**: Git, VSCode, Jupyter, Streamlit, Flask, React
+
+---
+
+## 📌 Featured Projects
+
+### 🧠 LLM-powered Chatbot for Document Q&A
+> Built a Flask web app that uses LLMs (Gemini / OpenAI) to answer user questions based on uploaded documents (PDF, DOCX, CSV). Supports history tracking and context-aware chat interface.
+
+- 🔗 [GitHub Repo](https://github.com/yourusername/your-chatbot-repo)
+- 🛠️ Flask, Gemini API, JavaScript, Bootstrap
+
+---
+
+### 📊 Sentiment Analysis Web App
+> Built an LSTM model to classify Vietnamese customer reviews into positive/negative classes. Deployed using Streamlit.
+
+- 🔗 [GitHub Repo](https://github.com/yourusername/sentiment-analysis-vn)
+- 🛠️ PyTorch, Streamlit, scikit-learn
+
+---
+
+### 🌍 Daily News Summarizer (LLM + Web Crawler)
+> A web app that summarizes the latest news from Vietnamese sources. User inputs the date, receives summarized news powered by LLMs.
+
+- 🔗 [GitHub Repo](https://github.com/yourusername/news-summarizer)
+- 🛠️ Flask, Gemini API, BeautifulSoup
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- 📧 Email: cothaiquach1108@gmail.com
+- 📄 LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/co-thai-quach-b63301314/)
+
+---
