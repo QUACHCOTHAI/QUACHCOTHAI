@@ -54,6 +54,6 @@ You can click the Preview link to take a look at your changes.
 ## 📫 Contact
 
 - 📧 Email: cothaiquach1108@gmail.com
-- 📄 LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/co-thai-quach-b63301314/)
+- 📄 LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/co-thai-quach-b63301314/)]
 
 ---
